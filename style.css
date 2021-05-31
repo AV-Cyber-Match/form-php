@@ -1,0 +1,17 @@
+a{
+	font-style: italic;
+}
+a:link{
+	color:red;
+	
+}
+a:visited{
+	color: navy;
+}
+a:hover{
+	color: blue;
+	}
+
+a:active{
+	color:yellow;
+}
